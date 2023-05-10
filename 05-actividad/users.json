@@ -1,0 +1,17 @@
+[
+	{
+		"username": "alexmarinmendez",
+		"age": 45,
+		"email": "alexmarinmendez@gmail.com"
+	},
+	{
+		"username": "ramiro",
+		"age": 35,
+		"email": "ramiro@gmail.com"
+	},
+	{
+		"username": "coder",
+		"age": 12,
+		"email": "coderhouse@coder.com"
+	}
+]
